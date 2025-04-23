@@ -77,10 +77,10 @@ The system takes five input variables related to mental health and lifestyle fac
 
 As output, the system returns the **Depression Level**, classified into four fuzzy categories based on the interpreted input data.
 <br>&nbsp;&nbsp;Range: 0–100
-<br>&nbsp;&nbsp;&nbsp;&nbsp;- *Level 0 – None*: 0–20
-<br>&nbsp;&nbsp;&nbsp;&nbsp;- *Level 1 – Mild*: 15–45
-<br>&nbsp;&nbsp;&nbsp;&nbsp;- *Level 2 – Moderate*: 40–70
-<br>&nbsp;&nbsp;&nbsp;&nbsp;- *Level 3 – Severe*: 65–100
+<br>&nbsp;&nbsp;&nbsp;&nbsp;- *Level 0 – No Depression*: 0–20
+<br>&nbsp;&nbsp;&nbsp;&nbsp;- *Level 1 – Slight Depression*: 15–45
+<br>&nbsp;&nbsp;&nbsp;&nbsp;- *Level 2 – Moderate Depression*: 40–70
+<br>&nbsp;&nbsp;&nbsp;&nbsp;- *Level 3 – Severe Depression*: 65–100
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/35d7e89e-ab17-4dbd-9385-e5384f0bbe3d" width=500>
 
