@@ -104,4 +104,4 @@ For example, given the following input values:
 
 ![image](https://github.com/user-attachments/assets/6c92d2dd-2ab3-466c-8e67-5e7541b29327)
 
-After **defuzzification**, the system output a **rounded value of 32**, which corresponds to a **Low Depression Level**.
+After **defuzzification**, the system output a **rounded value of 32**, which corresponds to a **Slight Depression Level**.
